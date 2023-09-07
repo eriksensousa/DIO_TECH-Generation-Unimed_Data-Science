@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: Image-Processing-Ceara
+Version: 0.0.1
+Summary: Projeto com comandos inspirados no português cearense
+Home-page: https://github.com/IagoMagalhaes23/Geracao-Tech-Unimed-BH_Ciencia-de-Dados
+Author: Iago Magalhães
+Author-email: iagomagalhaes23@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+The package package_name is used to:
+	- Plot Hist
+	- Plot Image
+	- Conversion RGB to GRAY
+	- Conversion RGB to HSV
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image-processing-ceara
+```
+
+## Author
+Iago MagalhÃ£es de Mesquita
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
